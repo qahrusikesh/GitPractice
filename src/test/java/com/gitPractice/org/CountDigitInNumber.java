@@ -13,7 +13,7 @@ public class CountDigitInNumber {
 			 number=number/10;
 			 count++;
 		 }
-		 System.out.println(" is a "+count+ " digit number");
+		 System.out.println(" Given number is a "+count+ " digit number");
 	}
 
 }
